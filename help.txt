@@ -1,0 +1,2 @@
+I need to start the game from div start.
+Once  I have started I need to wait for results from failure or success
